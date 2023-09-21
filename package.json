@@ -58,7 +58,7 @@
     "express-promise-router": "^4.1.1",
     "express-validator": "^6.14.0",
     "got": "11.x",
-    "graphql": "^16.2.0",
+    "graphql": "^16.8.1",
     "graphql-fields": "^2.0.3",
     "graphql-tools": "^8.2.0",
     "helmet": "^5.0.2",
